@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1609808381 source:c:\users\edin\desktop\matrica\lista.cpp
+	"lista.h"
+	<algorithm>
+
+1609808371 c:\users\edin\desktop\matrica\lista.h
+	"lista.cpp"
+
+1609808381 c:\users\edin\desktop\matrica\lista.cpp
+	"lista.h"
+	<algorithm>
+
+1609811608 source:c:\users\edin\desktop\matrica\main.cpp
+	"matrica.h"
+
+1609808335 c:\users\edin\desktop\matrica\matrica.h
+	"lista.h"
+	<iostream>
+	<vector>
+
+1609808599 source:c:\users\edin\desktop\matrica\matrica.cpp
+	"matrica.h"
+
+1609811981 source:c:\users\edin\onedrive\fakultet\semestri\iii semestar\strukture podataka i algoritmi\vježbe\edin\projekt 1\matrica\lista.cpp
+	"lista.h"
+	<algorithm>
+
+1609811971 c:\users\edin\onedrive\fakultet\semestri\iii semestar\strukture podataka i algoritmi\vježbe\edin\projekt 1\matrica\lista.h
+	"lista.cpp"
+
+1609811981 c:\users\edin\onedrive\fakultet\semestri\iii semestar\strukture podataka i algoritmi\vježbe\edin\projekt 1\matrica\lista.cpp
+	"lista.h"
+	<algorithm>
+
+1609815208 source:c:\users\edin\onedrive\fakultet\semestri\iii semestar\strukture podataka i algoritmi\vježbe\edin\projekt 1\matrica\main.cpp
+	"matrica.h"
+
+1609811935 c:\users\edin\onedrive\fakultet\semestri\iii semestar\strukture podataka i algoritmi\vježbe\edin\projekt 1\matrica\matrica.h
+	"lista.h"
+	<iostream>
+	<vector>
+
+1609812199 source:c:\users\edin\onedrive\fakultet\semestri\iii semestar\strukture podataka i algoritmi\vježbe\edin\projekt 1\matrica\matrica.cpp
+	"matrica.h"
+
